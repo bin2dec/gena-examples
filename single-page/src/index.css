@@ -1,0 +1,21 @@
+body {
+  background-color: #333;
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14pt;
+}
+
+a, a:visited {
+  color: #CCC;
+}
+
+.container {
+  margin: 0 auto;
+  width: 70%;
+}
+
+.footer {
+  color: #999;
+  font-size: 12pt;
+  margin-top: 70px;
+}
