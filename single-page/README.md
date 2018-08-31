@@ -24,6 +24,8 @@ Output files
 
 Running
 -------
+Run from the example directory:
+
     gena -s setting.py src
 
 
