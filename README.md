@@ -11,7 +11,12 @@ Here's a list of examples with short descriptions:
     </tr>
     <tr>
         <td>single-page</td>
-        <td>It's an example of a simple single page site generator</td>
+        <td>An example of a simple single page site generator</td>
         <td>>=0.1</td>
+    </tr>
+    <tr>
+        <td>bundle</td>
+        <td>An example of file bundling</td>
+        <td>>=0.3</td>
     </tr>
 </table>
